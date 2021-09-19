@@ -2,6 +2,13 @@ module DemoPackage_ak
 
 # Write your package code here.
 
-greeting() = print("Welcome to Ankit Julia World 1")
+export func
+
+"""
+    func(x)
+
+Returns double the number `x` plus `1`.
+"""
+func(x) = 2x + 1
 
 end

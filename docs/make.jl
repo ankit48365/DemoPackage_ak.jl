@@ -1,8 +1,12 @@
+using Pkg
+pkg"activate .."
+
 using Documenter
 using DemoPackage_ak
 
 makedocs(
     sitename = "DemoPackage_ak",
+    Authors = "Ankit DS",
     format = Documenter.HTML(),
     modules = [DemoPackage_ak]
 )
@@ -11,5 +15,6 @@ makedocs(
 # See "Hosting Documentation" and deploydocs() in the Documenter manual
 # for more information.
 #=deploydocs(
-    repo = "<repository url>"
+    repo = "https://github.com/ankit48365/DemoPackage_ak.jl"
 )=#
+
