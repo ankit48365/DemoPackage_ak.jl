@@ -4,7 +4,7 @@ pkg"activate .."
 using Documenter
 using DemoPackage_ak
 
-#makedocs(
+##makedocs(
 #    sitename = "DemoPackage_ak",
  #   Authors = "Ankit DS",
  #   format = Documenter.HTML(),
