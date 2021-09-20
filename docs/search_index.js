@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"index.html#DemoPackage_ak.jl-Documentation","page":"DemoPackage_ak.jl Documentation","title":"DemoPackage_ak.jl Documentation","text":"","category":"section"},{"location":"index.html","page":"DemoPackage_ak.jl Documentation","title":"DemoPackage_ak.jl Documentation","text":"Documentation for DemoPackage_ak.jl","category":"page"},{"location":"index.html","page":"DemoPackage_ak.jl Documentation","title":"DemoPackage_ak.jl Documentation","text":"func(x)","category":"page"},{"location":"index.html#DemoPackage_ak.func-Tuple{Any}","page":"DemoPackage_ak.jl Documentation","title":"DemoPackage_ak.func","text":"func(x)\n\nReturns double the number x plus 1.\n\n\n\n\n\n","category":"method"}]
+}
